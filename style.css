@@ -27,7 +27,7 @@ h1{
     border-radius: 50%;
     position: relative;
     left: 40%;
-    transition: all 0.2s ease; 
+    transition: all 0.1s ease; 
     background-color: red;
    
 }
