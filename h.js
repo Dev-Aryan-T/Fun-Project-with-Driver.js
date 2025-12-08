@@ -5,8 +5,8 @@ function myFunction() {
     driverobj.highlight({
         element: '.btn1',
         popover: {
-            title: "Best desicion of your life I love you too!",
-            description: "This is just a joke and fun page for testing driver javascript code",
+            title: "Be ready to convince our parents 😂❤️",
+            description: "This is just a joke and fun page for testing driverjs code. But if your feelings are real I am ready!!",
         },
     });
 };
@@ -32,8 +32,9 @@ function myFunction2(){
     dobj.highlight({
         element: '.btn2',
         popover: {
-            title: "Thukrake mera pyar mera intakam dekheki",
+            title: "Hehe wasted your time just like you did!",
             description: "Lol this is just joke hai",
         }
     });
+
 }
